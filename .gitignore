@@ -14,4 +14,3 @@ npm-debug.log*
 # Editor
 .DS_Store
 .vscode/
-config.bat
